@@ -1,0 +1,6 @@
+Steps to reproduce:
+1. Open ticket
+2. Click Save
+3. Error toast appears
+
+Log attached below.

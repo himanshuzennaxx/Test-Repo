@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "version": "1.2.0",
+      "sha": "8c03dfc70325b3155957319f8f816d413740f503",
+      "tag": "v1.2.0",
+      "requestedBy": "admin@siia.ai",
+      "status": "success",
+      "note": "real test using an actual commit from main — commit: Merge pull request #105 from himanshuzennaxx/e2e/issue-104",
+      "processedAt": "2026-08-19T06:26:16.428Z"
+    }
+  ]
+}

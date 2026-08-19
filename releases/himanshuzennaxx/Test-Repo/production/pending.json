@@ -1,8 +1,0 @@
-{
-  "requestedBy": "admin@siia.ai",
-  "requestedAt": "2026-08-19T06:25:59.132Z",
-  "scheduledAt": null,
-  "note": "real test using an actual commit from main",
-  "status": "pending",
-  "startedAt": null
-}

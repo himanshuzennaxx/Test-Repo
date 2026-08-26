@@ -1,0 +1,559 @@
+[
+  {
+    "SupplierDetail": [
+      {
+        "ID": "Factory Code",
+        "Data": "SONGLIN"
+      },
+      {
+        "ID": "Brand",
+        "Data": "Under Armour Asian"
+      }
+    ],
+    "OrderHandling": [
+      {
+        "ID": "GarmentLabelFlag",
+        "Data": "Y"
+      },
+      {
+        "ID": "ImportAs",
+        "Data": "Complete"
+      },
+      {
+        "ID": "LastUpdateDate",
+        "Data": "20260821051425"
+      },
+      {
+        "ID": "SizeChartModel",
+        "Data": "Data"
+      }
+    ],
+    "ItemRefs": [],
+    "EDIHeader": {
+      "EDIVariables": [
+        {
+          "ID": "KEY",
+          "Data": "26ASL12293 / 6009345-China / SS27 / CARE01 / GlobalCare01"
+        },
+        {
+          "ID": "Customer Order Ref",
+          "Data": "26ASL12293 / 6009345-China / SS27 / CARE01 / GlobalCare01"
+        },
+        {
+          "ID": "Order Number",
+          "Data": "26ASL12293"
+        },
+        {
+          "ID": "Season",
+          "Data": "SS27"
+        },
+        {
+          "ID": "Style",
+          "Data": "6009345-China"
+        },
+        {
+          "ID": "Print Style",
+          "Data": "N"
+        },
+        {
+          "ID": "EOD",
+          "Data": "EXCLUSIVE OF DECORATION"
+        },
+        {
+          "ID": "LABEL TYPE",
+          "Data": "REGULAR APPAREL"
+        },
+        {
+          "ID": "COO",
+          "Data": "Made in Malaysia"
+        },
+        {
+          "ID": "Care Code",
+          "Data": "CARE01 / GlobalCare01"
+        }
+      ],
+      "EDICareandContent": {
+        "CareSymbolMappingID": [],
+        "FrabricStatments": [],
+        "Fibres": {
+          "FibreComponents_1": [
+            {
+              "ID": "FibreName",
+              "Data": "cotton"
+            },
+            {
+              "ID": "Percent",
+              "Data": "80"
+            },
+            {
+              "ID": "FibreName",
+              "Data": "polyester"
+            },
+            {
+              "ID": "Percent",
+              "Data": "20"
+            }
+          ]
+        }
+      }
+    },
+    "EDISizeDetail": {
+      "EDISize": [
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "S"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "80"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "M"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "361"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "L"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "520"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "411"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "2XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "300"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "3XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "130"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "SupplierDetail": [
+      {
+        "ID": "Factory Code",
+        "Data": "SONGLIN"
+      },
+      {
+        "ID": "Brand",
+        "Data": "Under Armour Asian"
+      }
+    ],
+    "OrderHandling": [
+      {
+        "ID": "GarmentLabelFlag",
+        "Data": "Y"
+      },
+      {
+        "ID": "ImportAs",
+        "Data": "Complete"
+      },
+      {
+        "ID": "LastUpdateDate",
+        "Data": "20260821051425"
+      },
+      {
+        "ID": "SizeChartModel",
+        "Data": "Data"
+      }
+    ],
+    "ItemRefs": [],
+    "EDIHeader": {
+      "EDIVariables": [
+        {
+          "ID": "KEY",
+          "Data": "26ASL12294 / 6009346-Malaysia / SS27 / CARE02 / GlobalCare02"
+        },
+        {
+          "ID": "Customer Order Ref",
+          "Data": "26ASL12294 / 6009346-Malaysia / SS27 / CARE02 / GlobalCare02"
+        },
+        {
+          "ID": "Order Number",
+          "Data": "26ASL12294"
+        },
+        {
+          "ID": "Season",
+          "Data": "SS27"
+        },
+        {
+          "ID": "Style",
+          "Data": "6009346-Malaysia"
+        },
+        {
+          "ID": "Print Style",
+          "Data": "N"
+        },
+        {
+          "ID": "EOD",
+          "Data": "EXCLUSIVE OF DECORATION"
+        },
+        {
+          "ID": "LABEL TYPE",
+          "Data": "REGULAR APPAREL"
+        },
+        {
+          "ID": "COO",
+          "Data": "Made in Malaysia"
+        },
+        {
+          "ID": "Care Code",
+          "Data": "CARE02 / GlobalCare02"
+        }
+      ],
+      "EDICareandContent": {
+        "CareSymbolMappingID": [],
+        "FrabricStatments": [],
+        "Fibres": {
+          "FibreComponents_1": [
+            {
+              "ID": "FibreName",
+              "Data": "polyester"
+            },
+            {
+              "ID": "Percent",
+              "Data": "100"
+            }
+          ]
+        }
+      }
+    },
+    "EDISizeDetail": {
+      "EDISize": [
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Women's Top"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "S"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "120"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Women's Top"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "M"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "240"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Women's Top"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "L"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "180"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Women's Top"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "90"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Women's Top"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "2XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "40"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "SupplierDetail": [
+      {
+        "ID": "Factory Code",
+        "Data": "MFGVN"
+      },
+      {
+        "ID": "Brand",
+        "Data": "Under Armour Asian"
+      }
+    ],
+    "OrderHandling": [
+      {
+        "ID": "GarmentLabelFlag",
+        "Data": "Y"
+      },
+      {
+        "ID": "ImportAs",
+        "Data": "Complete"
+      },
+      {
+        "ID": "LastUpdateDate",
+        "Data": "20260821051425"
+      },
+      {
+        "ID": "SizeChartModel",
+        "Data": "Data"
+      }
+    ],
+    "ItemRefs": [],
+    "EDIHeader": {
+      "EDIVariables": [
+        {
+          "ID": "KEY",
+          "Data": "26ASL12295 / 6009347-Vietnam / SS27 / CARE01 / GlobalCare01"
+        },
+        {
+          "ID": "Customer Order Ref",
+          "Data": "26ASL12295 / 6009347-Vietnam / SS27 / CARE01 / GlobalCare01"
+        },
+        {
+          "ID": "Order Number",
+          "Data": "26ASL12295"
+        },
+        {
+          "ID": "Season",
+          "Data": "SS27"
+        },
+        {
+          "ID": "Style",
+          "Data": "6009347-Vietnam"
+        },
+        {
+          "ID": "Print Style",
+          "Data": "N"
+        },
+        {
+          "ID": "EOD",
+          "Data": "EXCLUSIVE OF DECORATION"
+        },
+        {
+          "ID": "LABEL TYPE",
+          "Data": "REGULAR APPAREL"
+        },
+        {
+          "ID": "COO",
+          "Data": "Made in Vietnam"
+        },
+        {
+          "ID": "Care Code",
+          "Data": "CARE01 / GlobalCare01"
+        }
+      ],
+      "EDICareandContent": {
+        "CareSymbolMappingID": [],
+        "FrabricStatments": [],
+        "Fibres": {
+          "FibreComponents_1": [
+            {
+              "ID": "FibreName",
+              "Data": "cotton"
+            },
+            {
+              "ID": "Percent",
+              "Data": "65"
+            },
+            {
+              "ID": "FibreName",
+              "Data": "polyester"
+            },
+            {
+              "ID": "Percent",
+              "Data": "35"
+            }
+          ]
+        }
+      }
+    },
+    "EDISizeDetail": {
+      "EDISize": [
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "S"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "50"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "M"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "200"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "L"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "300"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "250"
+            }
+          ]
+        },
+        {
+          "Variable": [
+            {
+              "ID": "Size Matrix",
+              "Data": "Men's Bottom"
+            },
+            {
+              "ID": "SIZE",
+              "Data": "2XL"
+            },
+            {
+              "ID": "TicketQuantity",
+              "Data": "100"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

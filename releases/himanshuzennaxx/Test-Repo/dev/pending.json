@@ -1,0 +1,9 @@
+{
+  "requestedBy": "claude-live-test-promote@siia.ai",
+  "requestedAt": "2026-09-07T05:54:44.479Z",
+  "scheduledAt": null,
+  "note": "with version prefix 3.0",
+  "status": "pending",
+  "startedAt": null,
+  "specificVersion": "3.0"
+}

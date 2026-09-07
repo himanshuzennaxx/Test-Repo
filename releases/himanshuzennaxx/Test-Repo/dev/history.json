@@ -8,6 +8,16 @@
       "status": "success",
       "note": "Live browser test of version prefix 4.0",
       "processedAt": "2026-09-07T06:05:05.169Z"
+    },
+    {
+      "version": "3.0.0.0.0",
+      "sha": "0000000000000000000000000000000000000",
+      "tag": "v3.0.0.0.0",
+      "requestedBy": "claude-live-test-promote@siia.ai",
+      "status": "failed",
+      "note": "Simulated: requested a version prefix lower than current",
+      "processedAt": "2026-09-07T06:06:15.035Z",
+      "failureReason": "Requested version prefix 3.0 is lower than the current version 4.0 — releases cannot go backwards."
     }
   ]
 }

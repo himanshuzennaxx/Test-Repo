@@ -1,0 +1,9 @@
+{
+  "requestedBy": "claude-live-test-promote@siia.ai",
+  "requestedAt": "2026-09-07T06:00:47.924Z",
+  "scheduledAt": null,
+  "note": "Live browser test of version prefix 4.0",
+  "status": "pending",
+  "startedAt": null,
+  "specificVersion": "4.0"
+}
